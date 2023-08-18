@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @RDEsley.
 - 👀 I’m interested in IA.
 - 🌱 I’m currently learning Python and Java, HTML and CSS.
-- 📫 How to reach me: @richardesley
+- 📫 How to reach me: richardesleyso@gmail.com
