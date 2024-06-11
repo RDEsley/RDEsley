@@ -18,6 +18,7 @@ Welcome to my GitHub profile!
 ## 📫 How to Reach Me
 
 - Email: [richardesleyso@gmail.com](mailto:richardesleyso@gmail.com)
+- LinkedIn: [Richard Esley](https://www.linkedin.com/in/richardesley)
 
 ---
 
