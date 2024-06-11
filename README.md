@@ -14,6 +14,7 @@ Welcome to my GitHub profile!
   - MySQL
 - **🅰️ Current Project:**
   - Creating an awesome app!
+  - Creating an RPG Game!
 
 ## 📫 How to Reach Me
 
