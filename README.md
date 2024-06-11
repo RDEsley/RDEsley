@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm RDEsley!
+# 👋 Hi there, I'm Richard Esley!
 
 Welcome to my GitHub profile!
 
