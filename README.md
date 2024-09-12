@@ -4,10 +4,9 @@
 
 ## About Me
 
-| Texto | GIF |
+| | |
 | --- | --- |
-| **About me**<br><br>Sou um universitário de Ciência da Computação, com perfil dinâmico e inovador, sempre motivado pelas rápidas inovações tecnológicas e seu impacto global. Desde cedo, fui fascinado por computadores e programação, e quando percebi que essa era minha verdadeira paixão, me dediquei a expandir meu conhecimento na área. Atualmente, estou cursando Ciência da Computação e sou formado em técnico em Informática, focado tanto em desenvolvimento de sistemas quanto em infraestrutura de TI. | ![Gif de um Gatinho Lendo um Livro..](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif) |
-
+| Sou um universitário de Ciência da Computação, com perfil dinâmico e inovador, sempre motivado pelas rápidas inovações tecnológicas e seu impacto global. Desde cedo, fui fascinado por computadores e programação, e quando percebi que essa era minha verdadeira paixão, me dediquei a expandir meu conhecimento na área. Atualmente, estou cursando Ciência da Computação e sou formado em técnico em Informática, focado tanto em desenvolvimento de sistemas quanto em infraestrutura de TI. | ![Gif de um Gatinho Lendo um Livro..](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif) |
 
 ---
   
