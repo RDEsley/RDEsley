@@ -1,13 +1,11 @@
 # Welcome to my GitHub profile! 👋
 
+
 ---
 
 ## About Me
 
 <p align="center">Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos e seu impacto global. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, possuo um diploma técnico em Informática, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
-
-
-<img align="right" alt="Gif of a Cat Reading a Book" height="130px" src="https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif">
 
 ---
 
@@ -23,6 +21,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
+<img alt="Gif of a Cat Reading a Book" height="130px" src="./src/img/header-image.gif">
 
 ---
 
