@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 ---
 
-![Gif Bochi the Rock](https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif)
+![Gif Bochi the Rock](https://www.milldesk.com.br/wp-content/uploads/2019/04/militaryestrategy-1.gif)
 
 ---
 
