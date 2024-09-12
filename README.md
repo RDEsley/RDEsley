@@ -4,7 +4,7 @@
 
 ## About Me
 
-<p align="center">I’m a dynamic and innovative Computer Science student, driven by rapid technological advancements and their global impact. My passion for programming started early, and since then, I've been focused on expanding my knowledge in this area. I am currently pursuing a degree in Computer Science and hold a technical diploma in IT, with experience in both system development and IT infrastructure.
+<p align="center">Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos e seu impacto global. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, possuo um diploma técnico em Informática, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
 
 
 <img align="right" alt="Gif of a Cat Reading a Book" height="130px" src="https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif">
