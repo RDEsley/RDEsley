@@ -1,20 +1,20 @@
-# Welcome to my GitHub profile!
+# Welcome to my GitHub profile! 👋
 
 ---
 
 ## About Me
 
-| | |
-| --- | --- |
-| Sou um universitário de Ciência da Computação, com perfil dinâmico e inovador, sempre motivado pelas rápidas inovações tecnológicas e seu impacto global. Desde cedo, fui fascinado por computadores e programação, e quando percebi que essa era minha verdadeira paixão, me dediquei a expandir meu conhecimento na área. Atualmente, estou cursando Ciência da Computação e sou formado em técnico em Informática, focado tanto em desenvolvimento de sistemas quanto em infraestrutura de TI. | ![Gif de um Gatinho Lendo um Livro..](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif) |
+I’m a dynamic and innovative Computer Science student, driven by rapid technological advancements and their global impact. My passion for programming started early, and since then, I've been focused on expanding my knowledge in this area. I am currently pursuing a degree in Computer Science and hold a technical diploma in IT, with experience in both system development and IT infrastructure.
+
+![Gif of a Cat Reading a Book..](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif)
 
 ---
-  
-**🌱 Currently Learning:** 
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+### 🌱 Currently Learning:
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -24,24 +24,24 @@
 
 ---
 
-**👀 Interests:** 
-  - Artificial Intelligence (AI)
-  - Back-end and Front-end
-  - Python Developer
-  - Data Science
-  - Cloud
+### 👀 Interests:
+- Artificial Intelligence (AI)
+- Full Stack Development (Back-end & Front-end)
+- Python Development
+- Data Science
+- Cloud Computing
 
 ---
 
-**🎯 Goals:** 
-  - 🚀 Create an awesome health app!  
-  - 🎮 Develop a simple RPG game!
-  - 💻 Sell a WebSite System  
-  - 📊 Learn Power BI, React, and Angular!
+### 🎯 Goals:
+- 🚀 Build an awesome health app!
+- 🎮 Develop a simple RPG game!
+- 💻 Create and sell a web system
+- 📊 Master Power BI, React, and Angular
 
 ---
 
-## 📫 How to Reach Me
+## 📫 How to Reach Me:
 
 - 📧 Email: [richardesleyso@gmail.com](mailto:richardesleyso@gmail.com)
 - 💼 LinkedIn: [Richard Esley](https://www.linkedin.com/in/richardesley)
@@ -50,8 +50,7 @@
 
 ### Let's Connect!
 
-Feel free to explore my repositories and contribute to my projects. 
-I'm always open to collaboration and learning new things.
+Feel free to explore my repositories and contribute to my projects. I’m always open to collaboration and learning new skills!
 
 ---
 
