@@ -1,16 +1,43 @@
 ## Hi there 👋
 
+
+
+
+
+
 <!--
-**RDEsley/RDEsley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm Richard Esley!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
+
+- **👀 Interests:** 
+  - Artificial Intelligence (IA)
+- **🌱 Currently Learning:** 
+  - Python
+  - Java
+  - HTML & CSS
+  - PHP
+  - MySQL
+- **🅰️ Current Project:**
+  - Creating an awesome app!
+  - Creating an RPG Game!
+
+## 📫 How to Reach Me
+
+- Email: [richardesleyso@gmail.com](mailto:richardesleyso@gmail.com)
+- LinkedIn: [Richard Esley](https://www.linkedin.com/in/richardesley)
+
+---
+
+### Let's Connect!
+
+Feel free to explore my repositories and contribute to my projects. I'm always open to collaboration and learning new things.
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&theme=radical)
+
 -->
