@@ -56,7 +56,8 @@ Sou um universitário de Ciência da Computação, com perfil dinâmico e inovad
 
 ### Let's Connect!
 
-Feel free to explore my repositories and contribute to my projects. I'm always open to collaboration and learning new things.
+Feel free to explore my repositories and contribute to my projects. 
+I'm always open to collaboration and learning new things.
 
 ---
 
