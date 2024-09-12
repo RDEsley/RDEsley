@@ -13,16 +13,20 @@ Welcome to my GitHub profile!
 ## About Me
 
 - **👀 Interests:** 
-  - Artificial Intelligence (IA)
+  > Artificial Intelligence (IA)
 - **🌱 Currently Learning:** 
-  - Python
-  - Java
-  - HTML & CSS
-  - PHP
-  - MySQL
-- **🅰️ Current Project:**
-  - Creating an awesome app!
-  - Creating an RPG Game!
+  > Python
+  > Java
+  > HTML & CSS
+  > PHP
+  > MySQL
+- **🅰️ Goals:**
+  > Create a awesome health app;
+  > Create a simple RPG Game;
+  > Code in Power BI, React and angular.
+
+- Gif:
+(https://i.pinimg.com/originals/1c/ec/60/1cec60b076ed3e42a0a253548370a353.gif)
 
 ## 📫 How to Reach Me
 
