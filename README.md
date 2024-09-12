@@ -4,9 +4,10 @@
 
 ## About Me
 
-I’m a dynamic and innovative Computer Science student, driven by rapid technological advancements and their global impact. My passion for programming started early, and since then, I've been focused on expanding my knowledge in this area. I am currently pursuing a degree in Computer Science and hold a technical diploma in IT, with experience in both system development and IT infrastructure.
+<p align="center">I’m a dynamic and innovative Computer Science student, driven by rapid technological advancements and their global impact. My passion for programming started early, and since then, I've been focused on expanding my knowledge in this area. I am currently pursuing a degree in Computer Science and hold a technical diploma in IT, with experience in both system development and IT infrastructure.
 
-![Gif of a Cat Reading a Book..](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif)
+
+<img align="right" alt="Gif of a Cat Reading a Book" height="130px" src="https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif">
 
 ---
 
@@ -21,6 +22,7 @@ I’m a dynamic and innovative Computer Science student, driven by rapid technol
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 
 ---
 
@@ -38,6 +40,7 @@ I’m a dynamic and innovative Computer Science student, driven by rapid technol
 - 🎮 Develop a simple RPG game!
 - 💻 Create and sell a web system
 - 📊 Master Power BI, React, and Angular
+
 
 ---
 
