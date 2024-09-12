@@ -1,6 +1,10 @@
 # 👋 Hi there, I'm Richard Esley
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile (Bem vindo ao meu Perfil do GitHub!)!
+
+---
+
+![Gif de um Gatinho Lendo um Livro..](https://media.giphy.com/media/LkjlH3rVETgsg/giphy.gif)
 
 ---
 
@@ -16,10 +20,6 @@ Welcome to my GitHub profile!
   - 🚀 Create an awesome health app  
   - 🎮 Develop a simple RPG game  
   - 💻 Learn Power BI, React, and Angular
-
----
-
-![Gif Bochi the Rock](https://www.milldesk.com.br/wp-content/uploads/2019/04/militaryestrategy-1.gif)
 
 ---
 
