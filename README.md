@@ -1,13 +1,14 @@
-# Welcome to my GitHub profile! 👋
+<h1 align="center" > Welcome to my GitHub profile! ☕</h1>
 
 
 ---
 
-## About Me
+<h2 align="center">About Me</h1>
 
 <p align="center">Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos e seu impacto global. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, possuo um diploma técnico em Informática, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
 
 ---
+<img align="right" alt="Gif of a Cat Reading a Book" width="500px" height="320px" src="./src/img/header-image.gif">
 
 ### 🌱 Currently Learning:
 
@@ -21,25 +22,23 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-<img alt="Gif of a Cat Reading a Book" height="130px" src="./src/img/header-image.gif">
+
+### 🎯 Goals: 
+
+- 🚀 Build an awesome health app!
+- 🎮 Develop a simple RPG game!
+- 💻 Create and sell a web system!
+- 📊 Master Power BI, React, and Angular...
 
 ---
 
-### 👀 Interests:
+<h1>🧩 Interests:</h1> 
+
 - Artificial Intelligence (AI)
 - Full Stack Development (Back-end & Front-end)
 - Python Development
 - Data Science
 - Cloud Computing
-
----
-
-### 🎯 Goals:
-- 🚀 Build an awesome health app!
-- 🎮 Develop a simple RPG game!
-- 💻 Create and sell a web system
-- 📊 Master Power BI, React, and Angular
-
 
 ---
 
