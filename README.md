@@ -1,6 +1,6 @@
 <h1 align="center" > Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="30" height="30" /></h1>
 
-<h2 align="center">About Me</h2>
+<h2 align="center">About Me</h2> 
 
 <p align="center" border="0"> Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos e seu impacto global. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, possuo um diploma técnico em Informática, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
 
@@ -8,7 +8,7 @@
 
 <img align="right" alt="Gif of a Cat Reading a Book" width="300px" height="160px" src="./src/img/header-image.gif">
 
-### 🌱 Currently Learning:
+### 🌱 Currently Learning: 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -20,7 +20,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<h1>🎯 Goals:</h1> 
+<h1>🎯 Goals: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25" /></h1> 
 
 - 🚀 Build an awesome app!
 - 🎮 Develop a simple RPG game!
@@ -29,7 +29,7 @@
 
 ---
 
-<h1>🧩 Interests:</h1> 
+<h1>🧩 Interests: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" /></h1> 
 
 - Artificial Intelligence (AI)
 - Full Stack Development (Back-end & Front-end)
@@ -39,14 +39,14 @@
 
 ---
 
-## 🚀 How to Reach Me:
+### 🚀 How to Reach Me: <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" />
 
 - 📧 Email: [richardesleyso@gmail.com](mailto:richardesleyso@gmail.com)
 - 📖 LinkedIn: [Richard Esley](https://www.linkedin.com/in/richardesley)
 
 ---
 
-### 🔗 Let's Connect!
+### 🔗 Let's Connect! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Saluting%20Face.png" alt="Saluting Face" width="25" height="25" />
 
 Feel free to explore my repositories and contribute to my projects. I’m always open to collaboration and learning new skills!
 
