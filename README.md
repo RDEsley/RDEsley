@@ -1,4 +1,4 @@
-<h1 align="center" > Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="30" height="30" /></h1> 
+<h1 align="center" > Welcome to my GitHub profile! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Zzz.png" alt="Zzz" width="30" height="30" /></h1>
 
 <h2 align="center">About Me</h2>
 
@@ -53,9 +53,11 @@ Feel free to explore my repositories and contribute to my projects. I’m always
 ---
 
 <div style="text-align: center;" align="center">
-  <h3>----------- My Stats -----------</h3>
-  <br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F75C7E&center=true&vCenter=true&width=450&lines=Hello,+I'm+Richard+Esley;Welcome+to+my+GitHub+profile!;I'm+a+Computer+Science+Student)
+  
 </div>
+
 <div style="display: flex; justify-content: space-between;">
     <img src="https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 49%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&theme=radical" alt="Top Languages" style="width: 44%;">
@@ -63,8 +65,8 @@ Feel free to explore my repositories and contribute to my projects. I’m always
 
 ---
 
-<picture align="center">
+<!-- <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RDEsley/RDEsley/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RDEsley/RDEsley/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RDEsley/RDEsley/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
