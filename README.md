@@ -8,21 +8,16 @@
 
 <img align="right" alt="Gif of a Cat Reading a Book" width="450px" height="300px" src="./src/img/header-image.gif">
 
-
 ### 🌱 Currently Learning:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 <h1>🎯 Goals:</h1> 
@@ -44,18 +39,23 @@
 
 ---
 
-## 📫 How to Reach Me:
+## 🚀 How to Reach Me:
 
 - 📧 Email: [richardesleyso@gmail.com](mailto:richardesleyso@gmail.com)
-- 💼 LinkedIn: [Richard Esley](https://www.linkedin.com/in/richardesley)
+- 📖 LinkedIn: [Richard Esley](https://www.linkedin.com/in/richardesley)
 
 ---
 
-### Let's Connect!
+### 🔗 Let's Connect!
 
 Feel free to explore my repositories and contribute to my projects. I’m always open to collaboration and learning new skills!
 
 ---
+
+<div style="text-align: center;" align="center">
+  <h3>+- My Stats -+</h3>
+  <br>
+</div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&theme=radical)
