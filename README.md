@@ -53,12 +53,13 @@ Feel free to explore my repositories and contribute to my projects. I’m always
 ---
 
 <div style="text-align: center;" align="center">
-  <h3>+- My Stats -+</h3>
+  <h3>----------- My Stats -----------</h3>
   <br>
 </div>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&theme=radical" alt="Top Languages" style="width: 44%;">
+</div>
 
 ---
 
