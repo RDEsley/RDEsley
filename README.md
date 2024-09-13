@@ -6,7 +6,7 @@
 
 ---
 
-<img align="right" alt="Gif of a Cat Reading a Book" width="350px" height="200px" src="./src/img/header-image.gif">
+<img align="right" alt="Gif of a Cat Reading a Book" width="300px" height="160px" src="./src/img/header-image.gif">
 
 ### 🌱 Currently Learning:
 
