@@ -22,7 +22,7 @@
 
 <h1>🎯 Goals:</h1> 
 
-- 🚀 Build an awesome health app!
+- 🚀 Build an awesome app!
 - 🎮 Develop a simple RPG game!
 - 💻 Create and sell a web system!
 - 📊 Master Power BI, React, and Angular...
