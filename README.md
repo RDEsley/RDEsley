@@ -59,8 +59,8 @@ Feel free to explore my repositories and contribute to my projects. I’m always
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 49%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&theme=radical" alt="Top Languages" style="width: 44%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 52%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&theme=radical" alt="Top Languages" style="width: 40%;">
 </div>
 
 ---
