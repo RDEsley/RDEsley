@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me</h2> 
 
-<p align="center" border="0"> Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos e seu impacto global. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, possuo um diploma técnico em Informática, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
+<p align="center" border="0"> Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, sou formado em técnico em Informática cadastrado no CFT, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
 
 ---
 
