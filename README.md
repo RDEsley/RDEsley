@@ -71,8 +71,8 @@ Feel free to explore my repositories and contribute to my projects. I’m always
 </div>
 
 ---
-
-<!-- <picture align="center">
+<!-- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RDEsley&bg_color=000000&color=eb8034&line=be93d4&point=b65fcf&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RDEsley/RDEsley/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RDEsley/RDEsley/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RDEsley/RDEsley/output/github-contribution-grid-snake.svg">
