@@ -4,6 +4,8 @@
 
 <p align="center" border="0"> Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, sou formado em técnico em Informática cadastrado no CFT, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
 
+<p>Meu primeiro trabalho freelancer: Um site para uma Dedetizadora: https://dedetizadora-web.vercel.app/index.html</p>
+
 ---
 
 <img align="right" alt="Gif of a Cat Reading a Book" width="300px" height="160px" src="./src/img/header-image.gif">
