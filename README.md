@@ -4,7 +4,10 @@
 
 <p align="center" border="0"> Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, sou formado em técnico em Informática cadastrado no CFT, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
 
-<p>Alguns sites que Desenvolvo: https://globalsolucaodedetizadora.com.br/</p>
+<p>Alguns sites que Desenvolvo: 
+[https://globalsolucaodedetizadora.com.br/](Global Solução Dedetizdora)
+[https://xequemateservicos.com.br/](Xequemate Serviços)
+</p>
 
 ---
 
