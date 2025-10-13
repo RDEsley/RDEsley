@@ -4,6 +4,7 @@
 
 <p align="center" border="0"> Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, sou formado em técnico em Informática cadastrado no CFT, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
 
+
 <p>Alguns sites que Desenvolvo:</p>
 https://globalsolucaodedetizadora.com.br <br>
 https://xequemateservicos.com.br (Pausado temporariamente desde 09/10/2025 - UTC18:36pm)
@@ -54,6 +55,7 @@ https://xequemateservicos.com.br (Pausado temporariamente desde 09/10/2025 - UTC
 
 - 📧 Email: [richardesleyso@gmail.com](mailto:richardesleyso@gmail.com)
 - 📖 LinkedIn: [Richard Esley](https://www.linkedin.com/in/richardesley)
+- 🏣 Empresa: [Fate Eight Tech](https://fateeight.com.br/)
 
 ---
 
