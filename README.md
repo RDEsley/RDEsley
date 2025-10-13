@@ -6,7 +6,7 @@
 
 <p>Alguns sites que Desenvolvo:</p>
 https://globalsolucaodedetizadora.com.br <br>
-https://xequemateservicos.com.br
+https://xequemateservicos.com.br (Pausado temporariamente desde 09/10/2025 - UTC18:36pm)
 
 
 ---
