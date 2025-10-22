@@ -5,8 +5,8 @@
 <p align="center" border="0"> Sou um estudante de Ciência da Computação dinâmico e inovador, movido pelos rápidos avanços tecnológicos. Minha paixão pela programação começou cedo, e desde então, tenho me dedicado a expandir meu conhecimento nessa área. Atualmente, sou formado em técnico em Informática cadastrado no CFT, com experiência tanto em desenvolvimento de sistemas, front-end, back-end quanto em infraestrutura de TI.
 
 
-<p>Interese em Criar um Site ou Anunciar um Site no Google?:</p>
-Entre em contato comigo ou acesse: https://fateeight.com.br/
+# Interese em Criar um Site ou Anunciar um Site no Google?
+## Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.br](https://fateeight.com.br/)
 
 
 ---
