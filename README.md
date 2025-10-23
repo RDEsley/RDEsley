@@ -47,6 +47,7 @@ Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.
         </p>
     </td>
     <td width="360" valign="top" style="text-align:right">
+      <h1>🌱 Programming <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" /></h1>
       <img alt="Gif of a programmer" width="350" height="180" src="/src/img/header-image.gif">
     </td>
   </tr>
@@ -56,10 +57,10 @@ Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.
 
 <h1>🎯 Goals <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25" /></h1> 
 
-- 🚀 **Criar um App Inovador** — Transformar ideias em realidade com código limpo e ótimo design! ✅
-- 🎮 **Desenvolver um Jogo RPG Imersivo** — Unindo criatividade, lógica e narrativa para criar experiências únicas.  
-- 💻 **Lançar e Comercializar um Sistema Web Completo** — Gerenciar todas as etapas do desenvolvimento, do design ao deploy. ✅  
-- 📊 **Dominar Java e o Desenvolvimento Backend** — Aprofundando conhecimentos em POO, estruturas de dados e arquiteturas escaláveis.
+- 🚀 **Criar um App Inovador**! ✅
+- 🎮 **Desenvolver um Jogo RPG Imersivo**   
+- 💻 **Lançar e Comercializar um Sistema Web Completo** ✅  
+- 📊 **Dominar Java e o Desenvolvimento Backend**
 - 🏣 **Abrir uma Empresa de Tecnologia** — Fate Eight Tech. ✅    
 
 ---
