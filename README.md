@@ -59,7 +59,8 @@ Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.
 - 🚀 **Criar um App Inovador** — Transformar ideias em realidade com código limpo e ótimo design! ✅
 - 🎮 **Desenvolver um Jogo RPG Imersivo** — Unindo criatividade, lógica e narrativa para criar experiências únicas.  
 - 💻 **Lançar e Comercializar um Sistema Web Completo** — Gerenciar todas as etapas do desenvolvimento, do design ao deploy. ✅  
-- 📊 **Dominar Java e o Desenvolvimento Backend** — Aprofundando conhecimentos em POO, estruturas de dados e arquiteturas escaláveis.  
+- 📊 **Dominar Java e o Desenvolvimento Backend** — Aprofundando conhecimentos em POO, estruturas de dados e arquiteturas escaláveis.
+- 🏣 **Abrir uma Empresa de Tecnologia** — Fate Eight Tech. ✅    
 
 ---
 
