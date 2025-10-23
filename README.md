@@ -21,7 +21,7 @@ Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.
 <table width="100%">
   <tr>
     <td>
-      <h1>🌱 Technologies</h1>
+      <h1>🌱 Technologies <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20Holding%20Back%20Tears.png" alt="Face Holding Back Tears" width="25" height="25" /></h1>
         <p align="left">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
