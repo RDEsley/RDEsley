@@ -47,7 +47,7 @@ Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.
         </p>
     </td>
     <td width="360" valign="top" style="text-align:right">
-      <img alt="Gif of a programmer" width="350" height="180" src="./src/img/header-image.gif">
+      <img alt="Gif of a programmer" width="350" height="180" src="/src/img/header-image.gif">
     </td>
   </tr>
 </table>
