@@ -6,17 +6,19 @@
 <h2 align="center">About Me</h2> 
 
 <p align="center">
-  Sou um estudante de <strong>Ciência da Computação</strong> dinâmico e inovador, movido pelos rápidos avanços tecnológicos. <br>
-  Minha paixão pela programação começou cedo, e desde então tenho me dedicado a expandir meu conhecimento nessa área. <br>
-  Atualmente, sou formado em <strong>Técnico em Informática</strong> (CFT) e possuo experiência em <strong>desenvolvimento de sistemas</strong> — front-end, back-end — e <strong>infraestrutura de TI</strong>.
+  Estudante de <strong>Ciência da Computação</strong> e Técnico em <strong>Informática</strong> (CFT). <br>
+  Experiência prática em <strong>desenvolvimento Full Stack</strong>, incluindo <strong>front-end, back-end e bancos de dados</strong>. <br>
+  Interesse em construir sistemas eficientes, bem estruturados e escaláveis.
 </p>
 
-##
-
-# 💡 Interesse em Criar ou Anunciar um Site no Google?
-Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.br](https://fateeight.com.br/)
-
 ---
+
+<p align="center">
+  Computer Science student and Information Technology Technician (CFT). <br>
+  Hands-on experience in Full Stack development, including front-end, back-end, and databases. <br>
+  Interested in building efficient, well-structured, and scalable systems.
+</p>
+
 
 <table width="100%">
   <tr>
@@ -30,7 +32,6 @@ Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
           <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
           <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
           <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
           <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
@@ -57,7 +58,7 @@ Entre em contato [comigo](https://wa.me/556198818808) ou acesse: [fateeight.com.
 
 <h1>🎯 Goals <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Weary%20Cat.png" alt="Weary Cat" width="25" height="25" /></h1> 
 
-- 🚀 **Criar um App Inovador**! ✅
+- 🚀 **Criar um Sistema Inovador**! ✅
 - 🎮 **Desenvolver um Jogo RPG Imersivo**   
 - 💻 **Lançar e Comercializar um Sistema Web Completo** ✅  
 - 📊 **Dominar Java e o Desenvolvimento Backend**
@@ -97,8 +98,8 @@ I’m always open to collaboration and learning new skills!
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 52%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&theme=radical" alt="Top Languages" style="width: 40%;">
+      <img src="https://readme-stats-github.pages.dev/api?username=RDEsley" alt="GitHub Stats - Richard Oliveira" loading="lazy">
+      <img src="https://readme-stats-github.pages.dev/api/top-langs?username=RDEsley" alt="Linguagens mais usadas" loading="lazy">
 </div>
 
 ---
