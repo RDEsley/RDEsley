@@ -36,17 +36,21 @@ Soluções objetivas, design centrado no usuário e código com propósito — s
 
 <br/>
 
-```ts
-const richard = {
-  role:     "Full Stack Developer & Founder",
-  company:  "Fate Eight Tech",
-  stack:    ["React", "Next.js", "Node.js", "Python", "TypeScript"],
-  database: ["PostgreSQL", "MongoDB", "Supabase", "MySQL"],
-  cloud:    ["AWS", "Docker", "GitHub Actions"],
-  focus:    ["Produto", "UX Minimalista", "Automação de Processos"],
-  current:  "Desenvolvendo GMC — Granja Mult Core 🐔",
-  fun_fact: "Violinista & Violista desde os 12 anos 🎻",
-};
+```bash
+> whoami
+
+Name:       Richard Esley
+Role:       Full Stack Developer & Founder
+Company:    Fate Eight Tech
+
+Stack:      React • Next.js • Node.js • Python • TypeScript
+Database:   PostgreSQL • MongoDB • Supabase • MySQL
+Cloud:      AWS • Docker • GitHub Actions
+
+Focus:      Product Development • Minimalist UX • Process Automation
+Current:    Developing GMC — Granja Mult Core 🐔
+
+Fun Fact:   Violinist & Violist since age 12 🎻
 ```
 
 ---
