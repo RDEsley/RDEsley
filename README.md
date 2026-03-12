@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d0d1a,60:111128,100:0a0a0f&height=220&section=header&text=Richard%20Esley&fontSize=72&fontColor=e2d9f3&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20%40%20Fate%20Eight%20Tech%20%E2%80%A2%20CS%20Student&descAlignY=62&descSize=16&descColor=7c6fa0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d0d1a,60:111128,100:0a0a0f&height=220&section=header&text=Richard%20Oliveira&fontSize=72&fontColor=e2d9f3&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20%40%20Fate%20Eight%20Tech%20%E2%80%A2%20CS%20Student&descAlignY=62&descSize=16&descColor=7c6fa0" />
 
 </div>
 
@@ -14,10 +14,10 @@
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-richardesley--dev.vercel.app-9d77e8?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://richardesley-dev.vercel.app/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%20LinkedIn-richardesley-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://www.linkedin.com/in/richardesley)&nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/%20Email-richardesleyso%40gmail.com-c084fc?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:richardesleyso@gmail.com)&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/%20Fate%20Eight%20Tech-fateeight.com.br-7c3aed?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://fateeight.com.br/)&nbsp;&nbsp;
-[![GitHub](https://img.shields.io/badge/%20GitHub-RDEsley-e2d9f3?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/RDEsley)
+[![Fate Eight Tech](https://img.shields.io/badge/%20Fate%20Eight%20Tech-fateeight.com.br-7c3aed?style=flat-square&logo=safari&logoColor=white&labelColor=0a0a0f)](https://fateeight.com.br/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RDEsley&color=7c3aed&style=flat-square&label=profile+views)
 
@@ -29,13 +29,20 @@
 
 ```typescript
 const richard: Developer = {
-  name:      "Richard Esley",
-  role:      "Full Stack Developer",
+  name:      "Richard Oliveira",
+  role:      "Full Stack Developer  •  UI/UX Focus",
   company:   "Fate Eight Tech — Founder & Lead Engineer",
-  education: ["B.Sc. Computer Science @CEUB", "Informatics Technician @CFT"],
-  location:  "Brazil",
+  education: ["B.Sc. Computer Science @CEUB", "Informatics Technician"],
+  location:  "Brazil 🇧🇷",
 
   philosophy: "Build things that matter. Ship code that holds up under pressure.",
+
+  highlights: [
+    "Led InstaAnalytics — Instagram analytics platform (React, TypeScript, Supabase, ML)",
+    "40+ repositories on GitHub",
+    "Automated business processes as administrative assistant",
+    "Violinist & violist since age 12 🎻"
+  ],
 
   strengths: [
     "Scalable system architecture",
@@ -44,7 +51,7 @@ const richard: Developer = {
     "Turning ideas into deployed products"
   ],
 
-  currentlyExploring: ["Java", "Cloud Architecture", "AWS Ecosystem"],
+  currentlyExploring: ["IA" and "ML"],
   openTo: ["Collaborations", "Freelance Projects", "Open Source"]
 };
 ```
@@ -58,6 +65,7 @@ const richard: Developer = {
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
 
@@ -65,6 +73,7 @@ const richard: Developer = {
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![Supabase](https://img.shields.io/badge/Supabase-0d1117?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
@@ -102,26 +111,26 @@ const richard: Developer = {
 
 ---
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=RDEsley&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+| Achievement | Status |
+|---          |---     |
+| 🚀 Shipped a full production web system                |✅ Done  
+| 💼 Launched & commercialized a SaaS product            |✅ Done 
+| 🏢 Founded Fate Eight Tech                             |✅ Done  
+| 🧠 Led a team project end-to-end (InstaAnalytics)      |✅ Done
+| 📦 40+ public repositories on GitHub                   |✅ Done
+| ☁️ AWS Solutions Architect certification               |🎯 Upcoming
+| 🎓 Master’s Degree in Artificial Intelligence          |⏳ Future Goal
+
+<br/>
+
+[![](https://img.shields.io/github/followers/RDEsley?label=GitHub+Followers&style=flat-square&color=9d77e8&labelColor=0d1117&logo=github)](https://github.com/RDEsley)&nbsp;
+[![](https://img.shields.io/github/stars/RDEsley?label=Total+Stars&style=flat-square&color=f97316&labelColor=0d1117&logo=github)](https://github.com/RDEsley?tab=repositories)
 
 </div>
-
----
-
-## 🎯 Roadmap
-
-| | Goal |
-|---|---|
-| ✅ | Built and deployed a full production web system |
-| ✅ | Launched and commercialized a SaaS product |
-| ✅ | Founded **Fate Eight Tech** |
-| 🔄 | Mastering Java & advanced backend engineering |
-| 🎮 | Developing an immersive RPG game |
-| ☁️ | AWS Solutions Architect certification |
 
 ---
 
@@ -150,9 +159,9 @@ Fundador e principal engenheiro da **Fate Eight Tech** — empresa especializada
 
 If you're working on something ambitious — or just want to talk systems, architecture, or code — I'm here.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-richardesley--dev.vercel.app-9d77e8?style=flat-square&logo=vercel&logoColor=white)](https://richardesley-dev.vercel.app/)&nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardesley)&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-Say%20hello-c084fc?style=flat-square&logo=gmail&logoColor=white)](mailto:richardesleyso@gmail.com)&nbsp;&nbsp;
-[![Website](https://img.shields.io/badge/Website-Fate%20Eight-7c3aed?style=flat-square&logo=safari&logoColor=white)](https://fateeight.com.br/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-c084fc?style=flat-square&logo=gmail&logoColor=white)](mailto:richardesleyso@gmail.com)
 
 *Open to collaborations, freelance work, and meaningful open source contributions.*
 
