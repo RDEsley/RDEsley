@@ -27,32 +27,37 @@
 
 ## `whoami`
 
-```typescript
-const richard: Developer = {
-  name:      "Richard Oliveira",
-  role:      "Full Stack Developer  •  UI/UX Focus",
-  company:   "Fate Eight Tech — Founder & Lead Engineer",
-  education: ["B.Sc. Computer Science @CEUB", "Informatics Technician"],
-  location:  "Brazil 🇧🇷",
+```const richard = {
+  name: "Richard Esley",
+  role: "Full Stack Developer",
+  focus: "Building scalable products & clean user experiences",
 
-  philosophy: "Build things that matter. Ship code that holds up under pressure.",
+  company: "Fate Eight Tech — Founder & Lead Engineer",
 
-  highlights: [
-    "Led InstaAnalytics — Instagram analytics platform (React, TypeScript, Supabase, ML)",
+  education: [
+    "B.Sc. Computer Science — CEUB",
+    "Informatics Technician"
+  ],
+
+  location: "Brazil",
+
+  currentlyBuilding: [
+    "GMC - Granja Mult Core"
+  ],
+
+  experienceHighlights: [
     "40+ repositories on GitHub",
-    "Automated business processes as administrative assistant",
-    "Violinist & violist since age 12 🎻"
+    "Led full-stack development of real-world applications",
+    "Automated internal business processes",
   ],
 
-  strengths: [
-    "Scalable system architecture",
-    "Clean, maintainable codebases",
-    "End-to-end product development",
-    "Turning ideas into deployed products"
+  interests: [
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Product Engineering"
   ],
 
-  currentlyExploring: ["IA" and "ML"],
-  openTo: ["Collaborations", "Freelance Projects", "Open Source"]
+  funFact: "Violinist & violist since age 12 🎻"
 };
 ```
 
@@ -141,7 +146,7 @@ const richard: Developer = {
 ```
 ╔══════════════════════════════════════════════════════════╗
 ║              F A T E   E I G H T   T E C H               ║
-║        "Building the future, one system at a time."       ║
+║        "Building the future, one system at a time."      ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
