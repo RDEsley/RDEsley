@@ -1,173 +1,127 @@
 <div align="center">
 
-<!-- Animated Banner via capsule-render -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Richard%20Esley&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=58&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d0d1a,60:111128,100:0a0a0f&height=220&section=header&text=Richard%20Esley&fontSize=72&fontColor=e2d9f3&fontAlignY=40&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20Founder%20%40%20Fate%20Eight%20Tech%20%E2%80%A2%20CS%20Student&descAlignY=62&descSize=16&descColor=7c6fa0" />
 
-<!-- Typing SVG - Dynamic role display -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Building+scalable+systems+%F0%9F%9A%80;Full+Stack+%7C+React+%7C+Node.js+%7C+Python;Founder+%40+Fate+Eight+Tech+%F0%9F%8F%A2;Always+learning%2C+always+building+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<br/>
+<div align="center">
 
-<!-- Social badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Richard%20Esley-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardesley)
-[![Email](https://img.shields.io/badge/Email-richardesleyso%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardesleyso@gmail.com)
-[![Website](https://img.shields.io/badge/Fate%20Eight%20Tech-fateeight.com.br-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://fateeight.com.br/)
-[![GitHub](https://img.shields.io/badge/GitHub-RDEsley-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RDEsley)
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=18&duration=2800&pause=900&color=9D77E8&center=true&vCenter=true&multiline=false&width=680&lines=Architect+of+scalable%2C+production-grade+systems;React+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Cloud;Founder+%E2%80%94+building+real+products+that+ship;Clean+code.+Strong+opinions.+Always+learning." alt="Typing SVG" />
+
+</div>
 
 <br/>
 
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=RDEsley&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-richardesley-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0a0f)](https://www.linkedin.com/in/richardesley)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/%20Email-richardesleyso%40gmail.com-c084fc?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0a0f)](mailto:richardesleyso@gmail.com)&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/%20Fate%20Eight%20Tech-fateeight.com.br-7c3aed?style=flat-square&logo=vercel&logoColor=white&labelColor=0a0a0f)](https://fateeight.com.br/)&nbsp;&nbsp;
+[![GitHub](https://img.shields.io/badge/%20GitHub-RDEsley-e2d9f3?style=flat-square&logo=github&logoColor=white&labelColor=0a0a0f)](https://github.com/RDEsley)
+
+![Profile Views](https://komarev.com/ghpvc/?username=RDEsley&color=7c3aed&style=flat-square&label=profile+views)
 
 </div>
 
 ---
-<table>
-<tr>
-<td valign="top">
 
-<h2>👨‍💻 About Me</h2>
+## `whoami`
 
-<code>
-const richard = {<br>
-&nbsp;&nbsp;name: "Richard Esley",<br>
-&nbsp;&nbsp;role: "Full Stack Developer",<br>
-&nbsp;&nbsp;education: "B.Sc. Computer Science (CEUB)",<br>
-&nbsp;&nbsp;tech: "Informatics Technician (CFT)",<br>
-&nbsp;&nbsp;company: "Fate Eight Tech — Founder",<br>
-&nbsp;&nbsp;location: "Brazil 🇧🇷",<br><br>
+```typescript
+const richard: Developer = {
+  name:      "Richard Esley",
+  role:      "Full Stack Developer",
+  company:   "Fate Eight Tech — Founder & Lead Engineer",
+  education: ["B.Sc. Computer Science @CEUB", "Informatics Technician @CFT"],
+  location:  "Brazil",
 
-&nbsp;&nbsp;focus: [<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"Scalable Systems",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"Clean Architecture",<br>
-&nbsp;&nbsp;&nbsp;&nbsp;"Full Stack Development"<br>
-&nbsp;&nbsp;],<br><br>
+  philosophy: "Build things that matter. Ship code that holds up under pressure.",
 
-&nbsp;&nbsp;currentlyLearning: ["Java", "Cloud Architecture"],<br>
-&nbsp;&nbsp;openTo: ["Collaborations", "Freelance", "Open Source"]<br>
+  strengths: [
+    "Scalable system architecture",
+    "Clean, maintainable codebases",
+    "End-to-end product development",
+    "Turning ideas into deployed products"
+  ],
+
+  currentlyExploring: ["Java", "Cloud Architecture", "AWS Ecosystem"],
+  openTo: ["Collaborations", "Freelance Projects", "Open Source"]
 };
-</code>
-
-</td>
-
-<td width="380" align="right">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
-
-</td>
-</tr>
-</table>
----
-
-## 🛠️ Tech Stack
-
-<details open>
-<summary><b>🎨 Front-End</b></summary>
-<br/>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Back-End & Databases</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ DevOps & Cloud</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/RDEsley">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_color=30363d"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&langs_count=8&theme=tokyonight&border_radius=12&hide_border=false&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&border_color=30363d"/>
-</a>
-
-<br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RDEsley&theme=tokyonight&hide_border=false&background=0d1117&stroke=30363d&ring=a78bfa&fire=f97316&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=c9d1d9&border_radius=12" alt="GitHub Streak" />
-</a>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=RDEsley&theme=tokyonight&no-frame=false&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Richard's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RDEsley&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f97316&area=true&hide_border=false&border_color=30363d&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🎯 Goals & Milestones
-
-<div align="center">
-
-| Status | Goal |
-|--------|------|
-| ✅ **Done** | Criar um Sistema Inovador |
-| ✅ **Done** | Lançar e Comercializar um Sistema Web Completo |
-| ✅ **Done** | Abrir a **Fate Eight Tech** |
-| 🔄 **In Progress** | Dominar Java e Desenvolvimento Backend |
-| 🎮 **Upcoming** | Desenvolver um Jogo RPG Imersivo |
-| ☁️ **Upcoming** | AWS Certification |
-
-</div>
-
----
-
-## 💡 Interests & Areas
-
-<div align="center">
-
-```
-🤖 Artificial Intelligence        ☁️ Cloud Computing
-🌐 Full Stack Development         📊 Data Science
-🐍 Python Ecosystem               🏗️ System Architecture
-🔐 Backend Engineering            🚀 Startups & Tech Business
 ```
 
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=1572B6)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=flat-square&logo=kotlin&logoColor=7F52FF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=336791)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248)
+
+### DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+
+---
+
+## 📊 GitHub at a Glance
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=8&bg_color=0d1117&title_color=9d77e8&icon_color=9d77e8&text_color=c9d1d9&border_color=1e1e2e&hide_border=false"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDEsley&layout=compact&langs_count=8&theme=tokyonight&border_radius=8&bg_color=0d1117&title_color=9d77e8&text_color=c9d1d9&border_color=1e1e2e"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RDEsley&theme=tokyonight&hide_border=false&background=0d1117&stroke=1e1e2e&ring=9d77e8&fire=f97316&currStreakLabel=9d77e8&sideLabels=9d77e8&dates=c9d1d9&border_radius=8" alt="GitHub Streak"/>
+
 </div>
+
+---
+
+## 📈 Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RDEsley&bg_color=0d1117&color=9d77e8&line=7c3aed&point=f97316&area=true&hide_border=false&border_color=1e1e2e&radius=6)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RDEsley&theme=tokyonight&no-frame=false&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🎯 Roadmap
+
+| | Goal |
+|---|---|
+| ✅ | Built and deployed a full production web system |
+| ✅ | Launched and commercialized a SaaS product |
+| ✅ | Founded **Fate Eight Tech** |
+| 🔄 | Mastering Java & advanced backend engineering |
+| 🎮 | Developing an immersive RPG game |
+| ☁️ | AWS Solutions Architect certification |
 
 ---
 
@@ -175,43 +129,41 @@ const richard = {<br>
 
 <div align="center">
 
-> *"Building the future, one system at a time."*
+```
+╔══════════════════════════════════════════════════════════╗
+║              F A T E   E I G H T   T E C H               ║
+║        "Building the future, one system at a time."       ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-[![Fate Eight Tech](https://img.shields.io/badge/🏢%20Visit%20Fate%20Eight%20Tech-fateeight.com.br-7C3AED?style=for-the-badge)](https://fateeight.com.br/)
+Fundador e principal engenheiro da **Fate Eight Tech** — empresa especializada em sistemas web escaláveis, arquitetura limpa e produtos digitais de alto impacto. Da ideia ao deploy, do backend ao produto final.
 
-Fundador e desenvolvedor principal da **Fate Eight Tech** — empresa focada em soluções web completas, sistemas escaláveis e produtos digitais de alto impacto.
-
-</div>
-
----
-
-## 📬 Let's Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/richardesley">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-&nbsp;
-<a href="mailto:richardesleyso@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-&nbsp;
-<a href="https://fateeight.com.br/">
-  <img src="https://img.shields.io/badge/Website-Fate%20Eight-7C3AED?style=for-the-badge&logo=safari&logoColor=white" />
-</a>
-
-<br/><br/>
-
-*Always open to collaborations, interesting projects, and new opportunities.*
+[![Visit Fate Eight Tech](https://img.shields.io/badge/🌐%20fateeight.com.br-Visit%20Website-7C3AED?style=flat-square)](https://fateeight.com.br/)
 
 </div>
 
 ---
 
-<!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
+## 💬 Let's Build Something
 
 <div align="center">
-  <sub>⭐ If you like my work, consider giving a star to my repositories!</sub>
+
+If you're working on something ambitious — or just want to talk systems, architecture, or code — I'm here.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richardesley)&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-Say%20hello-c084fc?style=flat-square&logo=gmail&logoColor=white)](mailto:richardesleyso@gmail.com)&nbsp;&nbsp;
+[![Website](https://img.shields.io/badge/Website-Fate%20Eight-7c3aed?style=flat-square&logo=safari&logoColor=white)](https://fateeight.com.br/)
+
+*Open to collaborations, freelance work, and meaningful open source contributions.*
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,50:0d0d1a,100:0a0a0f&height=100&section=footer&animation=fadeIn"/>
+
+<sub>Built with intention · Shipped with pride · Always in progress</sub>
+
 </div>
