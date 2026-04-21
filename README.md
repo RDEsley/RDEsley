@@ -17,7 +17,7 @@
 
 ---
 
-## 🌱 Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Grinning Face with Big Eyes" width="25" height="25" />
+<h2>🌱 Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="25" height="25" /></h2>
 
 <div align="center">
   <img src="/src/img/header-image.gif" width="360" />
@@ -55,7 +55,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 
 ---
 
-## 👓 Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" alt="Face with Monocle" width="25" height="25" />
+<h2>👓 Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="25" height="25" /></h2>
 
 <div align="center">
 
@@ -87,7 +87,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 
 ---
 
-## 📊 GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" alt="Hundred Points" width="25" height="25" />
+<h2>📊 GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" width="25" height="25" /></h2>
 
 <div align="center">
   
@@ -101,7 +101,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 
 ---
 
-## 🏆 Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Star-Struck" width="25" height="25" />
+<h2>🏆 Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="25" height="25" /></h2>
 
 <div align="center">
 
@@ -152,7 +152,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 
 ---
 
-## 🏢 Fate Eight Tech <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Shaking%20Face.png" alt="Shaking Face" width="25" height="25" />
+<h2>🏢 Fate Eight Tech <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Shaking%20Face.png" width="25" height="25" /></h2>
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Fundador e principal engenheiro da **Fate Eight Tech** — empresa especializada
 
 ---
 
-## 💬 Vamos construir algo juntos? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" />
+<h2>💬 Vamos construir algo juntos? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" width="25" height="25" /></h2>
 
 <div align="center">
 
