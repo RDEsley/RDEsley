@@ -17,7 +17,7 @@
 
 ---
 
-<h2>🌱 Sobre mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" width="25" height="25" /></h2>
+## 🌱 Sobre mim 😃
 
 <div align="center">
   <img src="/src/img/header-image.gif" width="360" />
@@ -55,11 +55,11 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 
 ---
 
-<h2>👓 Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Monocle.png" width="25" height="25" /></h2>
+## 👓 Tech Stack 🧐
 
 <div align="center">
 
-### 🎨 Frontend <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="25" height="25" />
+### 🎨 Frontend 😎
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-1e1e2e?style=for-the-badge&logo=typescript&logoColor=3178C6)
@@ -68,7 +68,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 ![HTML5](https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-### ⚙️ Backend & Databases <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" />
+### ⚙️ Backend & Databases 🤖
 ![Node.js](https://img.shields.io/badge/Node.js-1e1e2e?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Python](https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=3776AB)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1e1e2e?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
@@ -77,7 +77,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 ![MySQL](https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1e1e2e?style=for-the-badge&logo=mongodb&logoColor=47A248)
 
-### ☁️ DevOps & Cloud <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Thought%20Balloon.png" alt="Thought Balloon" width="25" height="25" />
+### ☁️ DevOps & Cloud 💭
 ![AWS](https://img.shields.io/badge/AWS-1e1e2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-1e1e2e?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-1e1e2e?style=for-the-badge&logo=githubactions&logoColor=2088FF)
@@ -87,7 +87,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 
 ---
 
-<h2>📊 GitHub Stats <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Hundred%20Points.png" width="25" height="25" /></h2>
+## 📊 GitHub Stats 💯
 
 <div align="center">
   
@@ -101,7 +101,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 
 ---
 
-<h2>🏆 Achievements <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="25" height="25" /></h2>
+## 🏆 Achievements 🤩
 
 <div align="center">
 
@@ -152,7 +152,7 @@ Fun Fact:   Violinist & Violist since age 12 🎻
 
 ---
 
-<h2>🏢 Fate Eight Tech <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Shaking%20Face.png" width="25" height="25" /></h2>
+## 🏢 Fate Eight Tech 🫨
 
 <div align="center">
 
@@ -186,7 +186,7 @@ Fundador e principal engenheiro da **Fate Eight Tech** — empresa especializada
 
 ---
 
-<h2>💬 Vamos construir algo juntos? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" width="25" height="25" /></h2>
+## 💬 Vamos construir algo juntos? 😁
 
 <div align="center">
 
@@ -217,5 +217,3 @@ Se você está trabalhando em algo ambicioso — ou só quer conversar sobre sis
 <sub>⚡ Built with intention · 🚀 Shipped with pride · 🔁 Always in progress</sub>
 
 </div>
-
----
