@@ -7,8 +7,6 @@
 <a href="mailto:richardesleyso@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" /></a>&nbsp;
 <a href="https://fateeight.com.br/"><img src="https://img.shields.io/badge/Fate_Eight_Tech-fateeight.com.br-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" /></a>
 
-<br/><br/>
-
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2600&pause=900&color=9D77E8&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+building+real+products;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Python;From+idea+%E2%86%92+interface+%E2%86%92+backend+%E2%86%92+production;Currently+building+Evolyn+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
