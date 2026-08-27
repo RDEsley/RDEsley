@@ -103,7 +103,7 @@ Peer-to-peer dynamic load balancing system exploring distributed architecture, c
 
 **Social analytics + intelligent processing**
 
-Team project combining web development, analytics and intelligent data processing into a complete application.
+Team project combining web development, analytics and intelligent data processing into a complete review application.
 
 `React` `Python` `Analytics` `Machine Learning`
 
