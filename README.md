@@ -194,7 +194,7 @@ Team project combining web development, analytics and intelligent data processin
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDEsley&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0d1117&title_color=9d77e8&icon_color=9d77e8&text_color=c9d1d9&border_color=1e1e2e"/>
+<img height="180em" src="./profile/stats.svg" alt="Richard Esley GitHub Stats"/>
 
 </div>
 
