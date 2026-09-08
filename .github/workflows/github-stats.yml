@@ -31,9 +31,10 @@ jobs:
 
       - name: Commit updated stats
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "Richard Oliveira"
+          git config user.email "141041229+RDEsley@users.noreply.github.com"
           git add profile/stats.svg
           git diff --cached --quiet && exit 0
           git commit -m "chore: update GitHub stats"
-          git push
+          git pull --rebase origin main
+          git push origin main
