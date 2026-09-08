@@ -190,7 +190,7 @@ Team project combining web development, analytics and intelligent data processin
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RDEsley&theme=tokyonight&hide_border=false&background=0d1117&stroke=1e1e2e&ring=9d77e8&fire=f97316&currStreakLabel=9d77e8&sideLabels=9d77e8&dates=c9d1d9&border_radius=10" alt="GitHub Streak"/>
+<img src="./profile/streak.svg" alt="Richard Esley GitHub Streak"/>
 
 <br/><br/>
 
