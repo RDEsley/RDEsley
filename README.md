@@ -236,7 +236,7 @@ I founded **Fate Eight Tech** to turn ideas into real digital products and help 
 <br/><br/>
 
 [![Followers](https://img.shields.io/github/followers/RDEsley?label=Followers&style=flat-square&color=9d77e8&labelColor=0d1117&logo=github)](https://github.com/RDEsley)
-![Profile Views](https://komarev.com/ghpvc/?username=RDEsley&color=7c3aed&style=flat-square&label=PROFILE+VIEWS)
+[![Profile Views](https://hits.sh/github.com/RDEsley.svg?style=flat-square&label=PROFILE%20VIEWS&color=7c3aed&labelColor=0d1117&extraCount=10000)](https://hits.sh/github.com/RDEsley/)
 
 </div>
 
