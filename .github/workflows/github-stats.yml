@@ -27,14 +27,14 @@ jobs:
           card: stats
           options: username=RDEsley&show_icons=true&include_all_commits=true&theme=tokyonight&border_radius=10&bg_color=0d1117&title_color=9d77e8&icon_color=9d77e8&text_color=c9d1d9&border_color=1e1e2e
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate GitHub streak card
         uses: zients/github-readme-streak-stats@v2
         with:
           options: user=RDEsley&theme=tokyonight&starting_year=2023&background=0d1117&border=1e1e2e&stroke=1e1e2e&ring=9d77e8&fire=f97316&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=9d77e8&sideLabels=9d77e8&dates=c9d1d9&border_radius=10
           path: profile/streak.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit updated profile stats
         run: |
