@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Richard Oliveira&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 71, Total Commits  : 1572, Total PRs: 115, Total Issues: 48, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 71, Total Commits  : 1583, Total PRs: 115, Total Issues: 48, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 95.99943445511292;
+        stroke-dashoffset: 95.89242232982805;
       }
     }
   
