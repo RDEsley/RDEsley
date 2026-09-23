@@ -7,7 +7,7 @@
 <a href="mailto:richardesleyso@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-c084fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f" /></a>&nbsp;
 <a href="https://fateeight.com.br/"><img src="https://img.shields.io/badge/Fate_Eight_Tech-fateeight.com.br-7c3aed?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0f" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2600&pause=900&color=9D77E8&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+building+real+products;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Python;From+idea+%E2%86%92+interface+%E2%86%92+backend+%E2%86%92+production;Currently+building+Evolyn+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=18&duration=2600&pause=900&color=9D77E8&center=true&vCenter=true&width=760&lines=Full+Stack+Developer+building+real+products;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Python;From+idea+%E2%86%92+interface+%E2%86%92+backend+%E2%86%92+production;Building+Evolyn+Core+Quest+%26+Lost+Sky+Dragon+%F0%9F%9A%80" alt="Typing SVG" />
 
 </div>
 
@@ -20,11 +20,12 @@ richard@github:~$ whoami
 
 Name        Richard Esley
 Role        Full Stack Developer
-Company     Freelancer
+Company     Fate Eight Tech
 Location    Brasília, Brazil
 
 Focus       Product Development • Full Stack Engineering • UI/UX • Automation
-Building    Evolyn — a gamified productivity ecosystem
+Building    Evolyn Core Quest — gamified personal evolution ecosystem
+Creative    Lost Sky Dragon — original game & book project
 
 Stack       React • Next.js • TypeScript • Node.js • Python
 Data        PostgreSQL • Supabase • MongoDB
@@ -33,13 +34,10 @@ Infra       Docker • AWS • GitHub Actions
 Status      Open to Software Engineering opportunities
 Fun Fact    Violinist & Violist 🎻
 ```
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-<div> <img src="/src/img/header-image.gif" width="360" /> </div>
-</table>
-</tr>
-</td>
+
+<div align="center">
+  <img src="/src/img/header-image.gif" width="360" alt="Richard Esley developer animation" />
+</div>
 
 <div align="center">
 
@@ -57,15 +55,16 @@ I build complete digital products — from the first interface to backend archit
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Evolyn
+### 🎮 Evolyn Core Quest
 
-**Gamified productivity ecosystem**
+**Gamified personal evolution ecosystem**
 
-A personal productivity platform combining activities, training, Experience (XP), notes, reminders and progression mechanics into one experience.
+A mobile-first platform combining training, activities, organization, XP, achievements, reminders and progression mechanics into one connected experience.
 
 `TypeScript` `React` `Supabase` `Product Design`
 
-<a href="https://github.com/RDEsley/Evolyn-Core-Quest">Explore repository →</a>
+<a href="https://github.com/RDEsley/Evolyn-Core-Quest">github.com/RDEsley/Evolyn-Core-Quest →</a><br/>
+<sub>Private repository · Active development</sub>
 
 </td>
 <td width="50%" valign="top">
@@ -78,7 +77,7 @@ Full-stack management system focused on poultry operations, users, permissions, 
 
 `Full Stack` `Supabase` `RBAC` `Product Engineering`
 
-<a href="https://gmc-granja-mult-core.vercel.app/">Explore system →</a>
+<a href="https://granjamultcore.com.br/">granjamultcore.com.br →</a>
 
 </td>
 </tr>
@@ -86,15 +85,16 @@ Full-stack management system focused on poultry operations, users, permissions, 
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Dynamic Load Balancing P2P
+### 💰 Fate Light
 
-**Distributed systems project**
+**Operations & financial management for freelancers**
 
-Peer-to-peer dynamic load balancing system exploring distributed architecture, communication and workload distribution.
+A lightweight workspace for managing clients, companies, services, billing, expenses, domains and recurring operations without relying on scattered spreadsheets.
 
-`Python` `Networking` `P2P` `Distributed Systems`
+`Next.js` `TypeScript` `Supabase` `Product Engineering`
 
-<a href="https://github.com/RDEsley/Dynamic_Load_Balancing_P2P">Explore repository →</a>
+<a href="https://fatelight-alpha.vercel.app/">Open live app →</a><br/>
+<a href="https://github.com/RDEsley/Fate-Light">Explore repository →</a>
 
 </td>
 <td width="50%" valign="top">
@@ -172,19 +172,20 @@ Team project combining web development, analytics and intelligent data processin
 ## `> git log --milestones`
 
 ```text
-2026  🚀  Building Evolyn
+2026  🐉  Creating Lost Sky Dragon — original game & book
+2026  🚀  Building Evolyn Core Quest
+2026  💰  Shipped Fate Light
 2026  🐔  Shipped Granja Mult Core
 2026  🦅  Growing Fate Eight Tech
 2026  🌐  Built distributed systems projects
 2025  📸  Developed InstaAnalytics
 2025  🤖  Worked on SASens AI
-2023  🎓  Completed Technical Degree in IT
+2024  🎓  Completed Technical Degree in IT
 ```
 
 ---
 
 ## `> github --analytics`
-
 
 <br/>
 
@@ -197,7 +198,6 @@ Team project combining web development, analytics and intelligent data processin
 <img height="180em" src="./profile/stats.svg" alt="Richard Esley GitHub Stats"/>
 
 </div>
-
 
 ---
 
