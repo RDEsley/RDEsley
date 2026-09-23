@@ -63,8 +63,7 @@ A mobile-first platform combining training, activities, organization, XP, achiev
 
 `TypeScript` `React` `Supabase` `Product Design`
 
-<a href="https://github.com/RDEsley/Evolyn-Core-Quest">github.com/RDEsley/Evolyn-Core-Quest →</a><br/>
-<sub>Private repository · Active development</sub>
+<a href="https://evolyn-core-quest.vercel.app/">Open Live App →</a><br/>
 
 </td>
 <td width="50%" valign="top">
@@ -93,7 +92,7 @@ A lightweight workspace for managing clients, companies, services, billing, expe
 
 `Next.js` `TypeScript` `Supabase` `Product Engineering`
 
-<a href="https://fatelight-alpha.vercel.app/">Open live app →</a><br/>
+<a href="https://fatelight-alpha.vercel.app/">Open Live App →</a>
 <a href="https://github.com/RDEsley/Fate-Light">Explore repository →</a>
 
 </td>
