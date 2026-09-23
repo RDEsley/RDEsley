@@ -92,8 +92,8 @@ A lightweight workspace for managing clients, companies, services, billing, expe
 
 `Next.js` `TypeScript` `Supabase` `Product Engineering`
 
-<a href="https://fatelight-alpha.vercel.app/">Open Live App →</a>
-<a href="https://github.com/RDEsley/Fate-Light">Explore repository →</a>
+<a href="https://fatelight-alpha.vercel.app/">Open Live App →  </a> or
+<a href="https://github.com/RDEsley/Fate-Light">Explore repository →  </a>
 
 </td>
 <td width="50%" valign="top">
@@ -102,7 +102,7 @@ A lightweight workspace for managing clients, companies, services, billing, expe
 
 **Social analytics + intelligent processing**
 
-Team project combining web development, analytics and intelligent data processing into a complete review application.
+Team project combining web development, analytics and intelligent data processing into a complete review application. It was my first academic project.
 
 `React` `Python` `Analytics` `Machine Learning`
 
